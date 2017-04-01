@@ -42,4 +42,7 @@ public class LoginManager {
             });
         }
     }
+    public void register(){
+
+    }
 }
